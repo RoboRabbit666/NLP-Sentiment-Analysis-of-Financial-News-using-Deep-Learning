@@ -13,10 +13,6 @@ This project implements multiple deep learning models to perform sentiment analy
 - [Models Implemented](#models-implemented)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Future Work](#future-work)
-- [References](#references)
 
 ## Dataset
 The dataset consists of financial news headlines labeled with sentiment classes (positive, negative, neutral). The data distribution is:
