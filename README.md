@@ -50,7 +50,6 @@ The models achieved the following accuracy scores:
 | DecisionTree | 70.12% | 0.69 | 0.78 |
 | Null Model | 45.23% | 0.45 | N/A |
 
-![Model Comparison](assets/model_comparison.png)
 
 ## Installation
 ```bash
