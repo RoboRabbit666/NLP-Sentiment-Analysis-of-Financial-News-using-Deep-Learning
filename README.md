@@ -1,5 +1,6 @@
 # NLP Sentiment Analysis of Financial News using Deep Learning
 
+![Bitcoin Price Chart](images/bitcoin_price_chart.jpg)
 ![License](https://img.shields.io/github/license/RoboRabbit666/NLP-Sentiment-Analysis-of-Financial-News-using-Deep-Learning)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-orange.svg)
