@@ -1,0 +1,2 @@
+# NLP-Sentiment-Analysis-of-Financial-News-using-Deep-Learning
+This project implements multiple deep learning models to perform sentiment analysis on financial news headlines, classifying them as positive, negative, or neutral. The models include simple feedforward neural networks (FNN), convolutional neural networks (CNN), long short-term memory networks (LSTM), and pre-trained BERT transformers.
