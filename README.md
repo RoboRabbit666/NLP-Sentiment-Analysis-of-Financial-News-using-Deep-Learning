@@ -15,7 +15,7 @@ This project implements multiple deep learning models to perform sentiment analy
 - [Installation](#installation)
 
 ## Dataset
-The dataset ![kaggle] (https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) consists of financial news headlines labeled with sentiment classes (positive, negative, neutral). The data distribution is:
+The dataset from [Kaggle](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) consists of financial news headlines labeled with sentiment classes (positive, negative, neutral). The data distribution is:
 - Positive: X%
 - Negative: Y%
 - Neutral: Z%
